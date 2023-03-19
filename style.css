@@ -1,0 +1,37 @@
+.resumeMargin{
+  margin: 3% 25%;
+}
+#name{
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+#address{
+  text-align: center;
+  margin-top: 10px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+#company{
+  margin-bottom: 0px;
+}
+#jobRole{
+  margin-top: 3px;
+  margin-bottom: 0px;
+}
+#education, #course{
+  margin-bottom: 0px;
+}
+#educationList, #courseList{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+ul{
+  margin-top: 10px;
+}
+#abstract{
+  text-align: center;
+  font-size: large;
+}
